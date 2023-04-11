@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=K-%20MJ%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=K-%20MJ%20Github&fontSize=90)
 
 ### 김민지 입니다.
 <br/>
